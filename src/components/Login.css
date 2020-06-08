@@ -24,3 +24,7 @@ button {
     padding: 0.2em;
     text-transform: uppercase;
 }
+
+.incorrect {
+    color: red;
+}
